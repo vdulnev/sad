@@ -1,0 +1,262 @@
+body { 
+    margin: 0px;
+    padding: 0px;
+    background-color:#ffffff;
+    background-image: url('../images/wallpaper1.jpg'); 
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:0px 200px;
+    font-family: arial,helvetica,sans-serif;    
+    color: #003366;
+    font-size: 15px;
+}
+
+/*#background-image{
+    background: url('../images/wallpaper1.jpg') #fff left bottom no-repeat; 
+    width: 500px;
+    height: 1230px;
+    position: fixed;
+}*/
+
+a {
+    color: #003300;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+img{
+    border:0px;
+}
+
+b{
+    color: #003366;
+}
+
+.clear{
+    clear: both;
+    height: 0px;
+    overflow: hidden;
+}
+
+#top {
+    height: 110px;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#logo{
+    float:left;
+    width: 315px;
+}
+
+#top-photo{
+    float: right;
+    width: 500px;
+}
+
+#header{
+    background: url('../IMG/3str.gif') #fff top left repeat-x;     
+}
+
+#header-chip{
+    margin: 6px 20px 0px;
+    float: left;
+}
+
+#header-text{
+    padding: 6px 20px 0px;
+}
+#main{
+    width: 1024px;
+    margin: 0 auto;
+    padding: 15px 0 0 10px;
+}
+
+#left {
+    width: 210px;
+    float: left;
+}
+
+#menu{
+    background: #fff;
+}
+
+#menu ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#menu ul a{
+    text-decoration: none;
+    font-weight: normal;    
+}
+
+#menu ul a:hover{
+    text-decoration: underline;
+    color: #669933;
+}
+
+#menu li{
+    background: url('../IMG/bigredarr.gif') left top no-repeat;
+    margin: 0 0 10px 0;
+    padding: 0 0 0 30px;    
+    font-weight: bold;
+}
+
+#menu, #contacts{
+    border: #aaa 2px solid;    
+    margin: 0 0 10px 0;
+    padding: 10px 5px;
+    color: #000;
+}
+
+#content {
+    width: 785px;
+    float: right;
+    border: #aaa 2px solid;
+    background: #fff;
+    /*    box-shadow: 0 5px 10px 1px;    */
+    padding: 10px;
+}
+
+#copyright{
+    text-align: center;
+    padding: 95px 0 35px 180px;
+}
+
+/* leaders */
+
+.name{
+    width: 300px;
+    float:left;
+    padding: 0 33px 0 0;    
+}
+
+.dayin, .phone {
+    width: 200px;   
+    float:left;   
+    padding: 0 0 5px 0;    
+}
+
+#leaders li{
+    display: block;
+    padding: 15px 0 25px;
+    border-bottom: 1px dashed #aaa;    
+}
+
+.date{
+    background: url('../images/date.png') left top no-repeat;
+    height: 48px;
+    padding: 11px 0 0 70px;
+    color: #669933;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.description, .description-video{
+    background: url('../images/info.png') left top no-repeat;    
+    padding: 11px 0 0 70px;    
+    color: #777777;
+    font-size: 18px;   
+}
+
+
+.description-video{
+    background: url('../images/video.png') left top no-repeat;    
+}
+
+
+.link{
+    background: url('../images/road.gif') left top no-repeat;    
+    padding: 11px 0 0 70px;    
+    color: #777777;
+    font-size: 18px;   
+}
+
+#content .gallery a{
+    background-color: #ccc;
+    display: block;
+    padding: 8px;
+    width: 240px;
+    float:left;
+    margin: 5px 2px;
+}
+
+#content .gallery a:hover{
+    background-color: #669933;
+}
+
+.tenders {
+    margin: 20px 0;
+}
+
+.tenders a{
+    display: block;
+    background: #fff url('../images/download.png') left top no-repeat;
+    padding: 15px 0 20px 60px;
+    clear: both;
+}
+
+
+.tenders a:hover{
+    color: #669933;
+    background: #eee url('../images/download.png') left top no-repeat;    
+}
+
+/* slider part */
+
+.bx-wrapper .bx-pager {
+    bottom: -95px;
+}
+
+.bx-wrapper .bx-pager a {
+    border: solid #ccc 1px;
+    display: block;
+    margin: 0 5px;
+    padding: 3px;
+}
+
+.bx-wrapper .bx-pager a:hover,
+.bx-wrapper .bx-pager a.active {
+    border: solid #5280DD 1px;
+}
+
+.bx-wrapper {
+    margin-bottom: 120px;
+}
+
+/* add */
+.bx-wrapper .bx-pager .bx-pager-item, .bx-wrapper .bx-controls-auto .bx-controls-auto-item {
+    display: inline-block;
+    float: left;
+} 
+
+/* questions - answer page */
+
+.question{
+/*    background: url('../images/question.jpg') left top no-repeat;*/
+    padding: 10px 0 10px 70px;
+    border-bottom: #ccc 1px dotted;
+    margin: 10px 0 0 0;
+}
+
+.answer{
+    background: url('../images/answer.png') left top no-repeat;
+    padding: 11px 0 0 70px;
+    color: #990000;
+
+}
+
+.item-question{
+    border: #aaa 1px dashed;
+    margin: 20px 0;
+    padding: 5px;
+}
+
+/* hidden */
+.ss-secondary-text, .ss-footer{
+    display: none !important;
+}

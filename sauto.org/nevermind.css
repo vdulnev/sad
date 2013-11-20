@@ -1,0 +1,157 @@
+BODY
+{
+    BACKGROUND-COLOR: #ffffff
+}
+BODY A
+{
+    BACKGROUND-COLOR: transparent;
+    COLOR: #003300;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt;
+    TEXT-DECORATION: none
+}
+BODY A:hover
+{
+    BACKGROUND-COLOR: transparent;
+    COLOR: #669933;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt;
+    TEXT-DECORATION: none
+}
+BODY P
+{
+    BACKGROUND-COLOR: transparent;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt
+}
+BODY IMG
+{
+    BORDER-BOTTOM: medium none;
+    BORDER-LEFT: medium none;
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none
+}
+.3strp 
+{
+    FONT-SIZE: 10pt;
+    COLOR: #003300
+}
+.maintab
+{
+    BORDER-RIGHT: silver 1px solid;
+    BORDER-TOP: silver 1px solid;
+    PADDING-BOTTOM: 4pt;
+    BORDER-LEFT: silver 1px solid;
+    PADDING-TOP: 4pt;
+    MARGIN-LEFT: 7pt;
+    MARGIN-TOP: 1pt;
+    MARGIN-BOTTOM: 3pt;
+    BORDER-BOTTOM: silver 1px solid
+}
+.tab
+{
+    PADDING-LEFT: 3pt
+}
+.bottab
+{
+    BORDER-RIGHT: silver 1px solid;
+    BORDER-TOP: silver 1px solid;
+    PADDING-BOTTOM: 4pt;
+    BORDER-LEFT: silver 1px solid;
+    PADDING-TOP: 8pt;
+    MARGIN-LEFT: 7pt;
+    MARGIN-TOP: 0pt;
+    MARGIN-BOTTOM: 3pt;
+    BORDER-BOTTOM: silver 1px solid
+}
+.righttab
+{
+    PADDING-BOTTOM: 4pt;
+    PADDING-TOP: 4pt;
+    MARGIN-LEFT: 4pt;
+    MARGIN-RIGHT: 4pt
+   
+}
+.copyrights
+{
+    PADDING-BOTTOM: 2pt;    
+    PADDING-TOP: 3pt;    
+    BORDER-TOP: silver 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN-LEFT: 7pt;
+    MARGIN-TOP: 1pt
+}
+.stripe
+{
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN-RIGHT: 10pt;
+    MARGIN-TOP: 0pt
+}
+.stripe2
+{
+    BORDER-BOTTOM: silver 1px solid;
+    MARGIN-RIGHT: 0pt;
+    MARGIN-TOP: 0pt
+}
+.stripe3
+{
+    BORDER-LEFT: #b22222 1px solid;
+    MARGIN-RIGHT: 0pt;
+    MARGIN-TOP: 0pt
+}
+.stripe4
+{
+    BORDER-BOTTOM: #b22222 1px solid;
+    MARGIN-RIGHT: 0pt;
+    MARGIN-TOP: 0pt
+}
+.boltp
+{
+    BACKGROUND-COLOR: transparent;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 10pt
+}
+.boltp2
+{
+    BACKGROUND-COLOR: transparent;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 12pt
+}
+.boltp3
+{
+    BACKGROUND-COLOR: transparent;
+    COLOR: #b22222;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt
+}
+.TDlast
+{
+    BORDER-RIGHT: silver 1px solid
+}
+.p
+{
+    BACKGROUND-COLOR: transparent;
+    COLOR: #003366;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
